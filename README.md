@@ -3,7 +3,7 @@
 <p> <strong>Pt-BR: </strong> Uma página feita com HTML, CSS e JavaScript, na qual podem ser adicionados valores para o cálculo da média, moda e mediana</p>
 <p> <strong>En: </strong> A page made with HTML, CSS and JavaScript, which values can be added to calculate the mean, mode and median
 </p>
-<p > <strong>View: </strong> <a href="https://leoaoun.github.io/Stopwatch-Cronometro/" target="_blank"> Click Here</p>
+<p > <strong>View: </strong> <a href="https://leoaoun.github.io/Media-Moda-Mediana/" target="_blank"> Click Here</p>
 <br>
 <div align="center">
 

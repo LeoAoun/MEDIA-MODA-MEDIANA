@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
+    <title>Média, Moda e Mediana</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="wave-square-solid.svg" type="image/x-icon">
+</head>
+<body>
+
+<div id="container">
+    <div id="div">
+    <h1 id="valores">Valores: </h1>
+    <h1 id="array"></h1>
+    </div>
+
+    <h2 id="resultado"></h2>
+    <h3 id="write"></h3>
+
+<div id="input-button">
+    <input type="number" autocomplete="off" oninput="change(this)" id="input">
+    <button id="insert" onclick="saveArray(); clean()">Inserir Valor</button>
+</div>
+<div id="buttons">
+    <button class="op" onclick="calcMean()">Calcular Média</button>
+    <button class="op" onclick="calcMode()">Calcular Moda</button>
+    <button class="op" onclick="calcMedian()">Calcular Mediana</button>
+</div>
+</div>
+<a href="https://github.com/LeoAoun" id="credits" target="_blank">Made By: Leo_Aoun</a>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
